@@ -1,7 +1,7 @@
 ##Olá !!! 
 
 - 🔭 Programador Front End
-- ⚡  Estudo React com Next JS
+- ⚡  Estudo React e Next JS
 - 📫 Contate-me no email: moreiramateus758@gmail.com
 
  <div>
